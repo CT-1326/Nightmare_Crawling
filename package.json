@@ -1,0 +1,22 @@
+{
+  "name": "nightmare_crawling",
+  "version": "1.0.0",
+  "description": "Learning Nightmare",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BSAA0203/Nightmare_Crawling.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BSAA0203/Nightmare_Crawling/issues"
+  },
+  "homepage": "https://github.com/BSAA0203/Nightmare_Crawling#readme",
+  "dependencies": {
+    "nightmare": "^3.0.2"
+  }
+}
