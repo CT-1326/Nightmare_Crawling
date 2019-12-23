@@ -1,9 +1,9 @@
 # Nightmare_Crawling
-    Learning Nightmare
+    Learning Nightmare library
 # Get Start
-    >cd Nightmare_Crawling
-    >npm install
-    >node index.js
+    > cd Nightmare_Crawling
+    > npm install
+    > node index.js
 # About more nightmare
 https://github.com/segmentio/nightmare#api
 
