@@ -1,7 +1,6 @@
 # Nightmare_Crawling
     Learning Nightmare library
 # Get Start
-    > cd Nightmare_Crawling
     > npm install
     > node index.js
 # About more nightmare
